@@ -1,0 +1,7 @@
+ÀÄmain
+   ÀÄMAIN  0/68  Ram=1
+      ÃÄ@cinit1  (Inline)  Ram=0
+      ÃÄsrand  0/10  Ram=4
+      ÀÄrand  0/128  Ram=4
+         ÃÄ@MUL3232  (Inline)  Ram=13
+         ÀÄ@DIV1616  (Inline)  Ram=5
